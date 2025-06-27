@@ -17,7 +17,7 @@ A simple and responsive To-Do List web application built with HTML, CSS, and Jav
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
@@ -25,7 +25,7 @@ A simple and responsive To-Do List web application built with HTML, CSS, and Jav
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/musfiramahjabeen/todo-app.git
    cd todo-app
    ```
 
